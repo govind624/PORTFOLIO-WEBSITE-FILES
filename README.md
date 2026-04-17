@@ -1,7 +1,7 @@
 # PORTFOLIO WEBSITE FILES
 Files regarding portfolio website
 
-[index (3).html](https://github.com/user-attachments/files/26812616/index.3.html)
+[index.html](https://github.com/user-attachments/files/26812616/index.3.html)
 <img width="3444" height="4238" alt="moon" src="https://github.com/user-attachments/assets/781ae2c3-6bf0-4b91-8021-85ccb16667db" />
 
 <img width="3444" height="4238" alt="behindthecurtains" src="https://github.com/user-attachments/assets/36a0e234-7fae-4e3f-a4dc-ef84a90dfe0c" />
