@@ -8,6 +8,12 @@ Files regarding portfolio website
 
 
 
+https://github.com/user-attachments/assets/6adbaba3-a5c3-4c47-b9b2-c4331737c221
+
+
+
+
+
 
 <img width="3444" height="4238" alt="happymonk" src="https://github.com/user-attachments/assets/cbe316f9-20eb-4461-99fa-2916d1b821e2" />
 [resume.pdf](https://github.com/user-attachments/files/26812659/resume.pdf)
